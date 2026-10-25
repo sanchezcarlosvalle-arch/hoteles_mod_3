@@ -1,0 +1,22 @@
+{
+  "name": "hoteles-modulo3",
+  "version": "1.0.0",
+  "description": "Hoteles - Modulo 3 con Bootstrap 4",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Osmany Sanchez Valle",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.5.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
